@@ -1,7 +1,4 @@
 {
   "name": "UniTAS TAS Movie Script API",
-  "$schema": "https://raw.githubusercontent.com/LuaLS/LLS-Addons/main/schemas/addon_config.schema.json",
-  "words": ["MOVIE_CONFIG", "movie.frame_advance"],
-  "settings": {
-  }
+  "words": ["MOVIE_CONFIG", "movie.frame_advance"]
 }
